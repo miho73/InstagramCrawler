@@ -1,0 +1,12 @@
+# Visual studio stuff
+.vs
+
+InstagramCrawling/obj
+InstagramCrawling/InstagramCrawling.csproj
+InstagramCrawling/bin
+
+InstagramCrawler/obj
+InstagramCrawler/InstagramCrawler.csproj
+InstagramCrawler/bin
+
+InstagramCrawler.sln
