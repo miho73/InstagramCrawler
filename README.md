@@ -10,3 +10,6 @@
 ### 2. 의존성
  * Selenium Webdriver - Apache License 2.0으로 허용되었습니다. [전문](http://www.apache.org/licenses/LICENSE-2.0)
  * ChromeDriver - Unlicensed로 허용되었습니다. [전문](https://licenses.nuget.org/Unlicense)
+### 3. 추가 노트
+ * [Instagram 크롤러 정책](https://www.instagram.com/robots.txt)을 참고하세요. 이 프로그램을 상식선 밖에서 써서는 안 됩니다.
+ * 이 프로그램으로 과도한 요청을 보내거나 하는 등의 행동으로 불이익을 당해도 책임지지 않습니다.
