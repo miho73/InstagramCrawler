@@ -24,9 +24,9 @@
  * There're no any comment in any code.
  * I did not pushed compiled binary file. If you need, I wish you to compile yourself. I considering to upload binary file.
  * After more test, I'll remove login step to reduce collected privacy from user.
-### 2. 의존성
+### 2. Dependencies
  * Selenium Webdriver - Apache License 2.0 [License](http://www.apache.org/licenses/LICENSE-2.0)
  * ChromeDriver - Unlicensed [License](https://licenses.nuget.org/Unlicense)
-### 3. 추가 노트
+### 3. Further Note
  * Reference [Instagram 크롤러 정책](https://www.instagram.com/robots.txt). Don't use this program naughty.
  * I me myself don't have any responsibility of abuse of this program. Don't send too much traffic or any naughty thing with this program.
